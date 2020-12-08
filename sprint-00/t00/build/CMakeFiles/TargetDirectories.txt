@@ -1,5 +1,0 @@
-/home/victor/Documents/ucode/half-marathon-cpp/sprint-00/t00/build/CMakeFiles/edit_cache.dir
-/home/victor/Documents/ucode/half-marathon-cpp/sprint-00/t00/build/CMakeFiles/package_source.dir
-/home/victor/Documents/ucode/half-marathon-cpp/sprint-00/t00/build/CMakeFiles/rebuild_cache.dir
-/home/victor/Documents/ucode/half-marathon-cpp/sprint-00/t00/build/CMakeFiles/package.dir
-/home/victor/Documents/ucode/half-marathon-cpp/sprint-00/t00/build/CMakeFiles/hello_world.dir

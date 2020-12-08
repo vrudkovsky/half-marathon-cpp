@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/victor/Documents/ucode/half-marathon-cpp/sprint-00/t00/build",
-  "command": "/bin/c++    -g   -std=gnu++17 -o CMakeFiles/hello_world.dir/main.cpp.o -c /home/victor/Documents/ucode/half-marathon-cpp/sprint-00/t00/main.cpp",
-  "file": "/home/victor/Documents/ucode/half-marathon-cpp/sprint-00/t00/main.cpp"
-}
-]
