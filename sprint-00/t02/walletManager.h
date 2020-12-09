@@ -8,5 +8,5 @@ struct Wallet {
 
 Wallet* createWallet(int value);
 void destroyWallet(Wallet* wallet);
-Wallet* createWallets(Wallet* wallets);
+Wallet* createWallets(int amount);
 void destroyWallets(Wallet* wallets);
