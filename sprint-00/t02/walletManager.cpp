@@ -16,5 +16,5 @@ Wallet* createWallets(int amount) {
     return wallets;
 };
 void destroyWallets(Wallet* wallets) {
-    delete[] wallets
+    delete[] wallets;
 };
