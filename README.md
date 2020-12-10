@@ -35,7 +35,7 @@
 ### Sprint 03
 1. t00 - Template Addition
 2. t01 - Output Any
-3. t02 - Sun of Arguments
+3. t02 - Sum of Arguments
 4. t03 - Sum File Data
 5. t04 - Output Container
 6. t05 - Square Value
