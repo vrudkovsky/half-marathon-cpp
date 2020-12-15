@@ -1,18 +1,17 @@
 cmake_minimum_required(VERSION 3.16.3)
-project(referenceOrPointer)
+project(meadSong)
 
 set(HEADERS
-        referenceOrPointer.h
-)
-
+        meadSong.h
+        )
 set(SOURCES
-        referenceOrPointer.cpp
+        meadSong.cpp
         main.cpp
 )
 
-add_executable(referenceOrPointer ${HEADERS} ${SOURCES})
+add_executable(meadSong ${SOURCES})
 
-set_target_properties(referenceOrPointer PROPERTIES
+set_target_properties(meadSong PROPERTIES
         CXX_STANDARD 17
         CXX_STANDARD_REQUIRED ON
         RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/.."
